@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 669px;
+  background-color: #ffd700;
+  width: 100%;
+}
+
+.App-header {
+  background-color: #115173;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.para {
+  font-family: sans-serif;
+  color: gray;
+  margin: 50px;
+  text-align: center;
+ font-size: 30px;
+}
